@@ -39,7 +39,8 @@ Each folder contains `.cpp` files for DSA problems with:
 - Linked List  
 - Binary Search  
 - Two Pointers  
-- Recursion *(coming soon)*
+- Recursion
+- strings
 
 *(The list will grow as I progress.)*
 
