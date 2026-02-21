@@ -41,6 +41,8 @@ Each folder contains `.cpp` files for DSA problems with:
 - Two Pointers  
 - Recursion
 - strings
+- sliding window
+- stacks and queues
 
 *(The list will grow as I progress.)*
 
